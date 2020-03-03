@@ -1,5 +1,13 @@
-# FCC-Tribute
+# Free Code Camp Exercises
 
-My Code from the short ["Tribute" exercise on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
-Codepen is here: https://codepen.io/jemcopecodes/pen/LYVLQdW
+
+
+["Tribute" exercise on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+
+[Tribute Codepen](https://codepen.io/jemcopecodes/pen/LYVLQdW)
+
+----
+["Survey" exercise on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+
+[Survey Codepen](https://codepen.io/jemcopecodes/pen/WNvEbqM)
