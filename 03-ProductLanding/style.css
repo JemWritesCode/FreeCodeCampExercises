@@ -1,0 +1,42 @@
+#page-wrapper {
+  position: relative;
+}
+body {
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 0;
+}
+
+#nav-bar{
+  position: fixed;
+  top:0px;
+  width: 100%;
+  background-color: grey;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+@media(max-width: 1000px){
+  ul {
+    flex-direction: column;
+  }
+}
+
+#home {
+  margin:0 auto;
+  width: 50%;
+}
+
+li > a {
+  color: white;
+  font-size: 2vw;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
