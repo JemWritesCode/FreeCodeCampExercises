@@ -3,11 +3,16 @@
 
 
 
-["Tribute" exercise on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+["Tribute" exercise instructions on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
-[Tribute Codepen](https://codepen.io/jemcopecodes/pen/LYVLQdW)
+[My Tribute Codepen](https://codepen.io/jemcopecodes/pen/LYVLQdW)
 
 ----
-["Survey" exercise on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+["Survey" exercise instructions on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
-[Survey Codepen](https://codepen.io/jemcopecodes/pen/WNvEbqM)
+[My Survey Codepen](https://codepen.io/jemcopecodes/pen/WNvEbqM)
+
+----
+["Product Landing" exercise instructions on FreeCodeCamp.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+
+[My Product Landing Codepen](https://codepen.io/jemcopecodes/pen/GRJMLoe)
