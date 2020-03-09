@@ -1,0 +1,22 @@
+@media only screen and (max-width: 500px){
+  nav{
+    background-color: lightblue;
+  }
+}
+
+nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background-color: grey;
+  width: 100%;
+  display: flex;
+}
+
+#welcome-section {
+  margin: auto;
+  height: 100vh;
+  text-align: center;
+  font-size: 5em;
+  background-color: lightblue;
+}
