@@ -21,3 +21,7 @@
 ["Technical Documentation" exercise on FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 
 [My Technical Documentation Codepen](https://codepen.io/jemcopecodes/pen/mdJqYvO)
+
+----
+["Portfolio" exercise on FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+[My "Portfolio" Codepen](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
