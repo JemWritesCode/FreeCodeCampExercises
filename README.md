@@ -18,6 +18,6 @@
 [My Product Landing Codepen](https://codepen.io/jemcopecodes/pen/GRJMLoe)
 
 ----
-["Technical Documentation" exercise on FreeCodeCamp(https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+["Technical Documentation" exercise on FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 
 [My Technical Documentation Codepen](https://codepen.io/jemcopecodes/pen/mdJqYvO)
